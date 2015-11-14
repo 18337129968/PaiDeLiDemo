@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings"></string>
+    <string name="app_name">拍得利(内测版)     <!-- Take advantage (private) -->
+    </string>
+    <string name="back">back</string>
+    <string name="user_login_title">登录</string>
+    <string name="phone_number_hint">手机号</string>
+    <string name="digits">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="password_hint">密码</string>
+    <string name="remember_pwd_text">记住密码</string>
+    <string name="auto_login__text">自动登录</string>
+    <string name="login_btn_text">登录</string>
+    <string name="forgot_pwd_text">忘记密码</string>
+    <string name="register_text">注册</string>
+    <string name="verification_code_hint">验证码</string>
+    <string name="getverification_code_hint">获取验证码</string>
+    <string name="input_password_hint">输入密码</string>
+    <string name="input_password_again_hint">再次输入密码</string>
+    <string name="btn_tonext_text">下一步</string>
+    <string name="register_textview">轻触下一步将同意拍得利</string>
+    <string name="user_agreement_text">《用户使用协议》</string>
+    <string name="dialog_loading">加载中..</string>
+    <string name="input_new_password_hint">输入新密码</string>
+    <string name="input_new_password_again_hint">再次输入新密码</string>
+    <string name="btn_done_text">完成</string>
+    <string name="enter">确定</string>
+    <string name="invitation_code_hint">邀请码</string>
+    <string name="invitation_code_textview">输入推荐人邀请码，即可获得30拍币奖励</string>
+    <string name="register_ok_btn_text">完成注册</string>
+    <string name="skip_done_text">跳过并完成注册</string>
+    <string name="sign_in">签到</string>
+    <string name="message">消息</string>
+    <string name="shut">关闭</string>
+    <string name="integral_balance">我的拍币</string>
+    <string name="integral_today">今日拍币</string>
+    <string name="integral_total">我的金币</string>
+    <string name="exchangemall">兑换商城</string>
+    <string name="get_gold">赚取金币</string>
+    <string name="earn_integral">赚取积分</string>
+    <string name="mytask">我的任务</string>
+    <string name="shake_prize">开心摇奖</string>
+    <string name="yiyuan_shake_prize">一元摇奖</string>
+    <string name="user_show_prize">用户晒奖</string>
+    <string name="my_friend">我的好友</string>
+    <string name="my">个人中心</string>
+    <string name="merchant_manager">商家管理</string>
+    <string name="ernie_top">摇奖</string>
+    <string name="my_friend_home">"推荐好友"</string>
+    <string name="mine_show_prize">我要晒奖</string>
+    <string name="share_prize_des">参加我要晒奖，分享获奖经历</string>
+    <string name="mycode">我的二维码</string>
+    <string name="mycode_ps1">通过推荐好友直接获得相应拍币奖励</string>
+    <string name="mycode_ps2">好友再推荐好友，将获得间接的相应拍币</string>
+    <string name="weixin1">朋友圈</string>
+    <string name="weixin">微信</string>
+    <string name="sinaweibo">新浪微博</string>
+    <string name="qzone">QQ空间</string>
+    <string name="QQ">QQ</string>
+    <string name="wechat_id">微信号:paideili</string>
+    <string name="friend_request_nodata_tv1">当前无推荐好友</string>
+    <string name="friend_request_nodata_tv2">快去推荐好友获得拍币吧</string>
+    <string name="friend_request_list">我的推荐列表</string>
+    <string name="firm_order_pop_text">是否确认消耗</string>
+    <string name="cancel">取消</string>
+    <string name="complete">完成</string>
+    <string name="sure">确定</string>
+    <string name="points">拍币</string>
+    
+    
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+    <string name="vitamio_init_decoders">Initializing decoders…</string>
+
+</resources>
